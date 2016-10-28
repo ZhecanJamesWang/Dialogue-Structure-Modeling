@@ -1,4 +1,7 @@
+### The content of this research repository is private.
+
 # Dialogue-Structure-Modeling
+
 Natural Language Processing Research on Social Media Data
 
 This computational linguistic research project aims to match multiple questions and answers in conversation.
